@@ -14,6 +14,8 @@ Web services are often protected with a challenge that's supposed to be easy for
 Asirra (Animal Species Image Recognition for Restricting Access) is a HIP that works by asking users to identify photographs of cats and dogs. This task is difficult for computers, but studies have shown that people can accomplish it quickly and accurately. Many even think it's fun! Here is an example of the Asirra interface:
 Asirra is unique because of its partnership with Petfinder.com, the world's largest site devoted to finding homes for homeless pets. They've provided Microsoft Research with over three million images of cats and dogs, manually classified by people at thousands of animal shelters across the United States. Kaggle is fortunate to offer a subset of this data for fun and research. 
 
+Data are available on this link: https://www.kaggle.com/c/dogs-vs-cats/data
+
 # Solution statement:
 The propose solution is provide the model based on CNN to distinguish Dogs VS Cats images. I used Pandas to load and explore data .
 
