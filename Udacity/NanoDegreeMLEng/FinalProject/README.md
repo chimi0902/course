@@ -18,7 +18,9 @@ Asirra is unique because of its partnership with Petfinder.com, the world's larg
 The train data have 12500 images of cats and 12500 images of dog. The followed images chows the percentage of dog and cat images.
 
 ![alt text](Image/cat_dog_rate.png "cat_dog_rate")
+
 The following images show the dog and cat image with their corresponding 2d histograms 
+
 ![alt text](train/cat.1.jpg "cat") 
 ![alt text](Image/cat_his2d.png "cat_hist")
 
@@ -26,8 +28,10 @@ The following images show the dog and cat image with their corresponding 2d hist
 ![alt text](Image/dog_hist2d.png "dog_hist")
 
 The different between images are significant due to image back drown and lightness. 
+We can find on our data several dog which look like cat because of dog size such as shihuahua. 
 
-The following table show the statistics description on image size in MB. The sizes of dog and cat image are close event if we compare the quartiles. Based on standard deviation, we can say that the cat images are  
+The following table show the statistics description on image size in MB. The sizes of dog and cat image are close event if we compare the quartiles. 
+Based on standard deviation, we can say that the cat images size is more homogenous than dog image size.  
 
 ![alt text](Image/desc_stat.png "dog_hist")
 
